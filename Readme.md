@@ -1,5 +1,6 @@
 <h1 align="center">MERN Netflix Clone 🎬</h1>
-![Demo App](https://github.com/user-attachments/assets/1cb934e6-d163-414d-ac58-b4e3365c2069)
+![screenshot-for-readme](https://github.com/user-attachments/assets/6dde5367-0c8e-49c2-9b03-62e0f9defdda)
+
 
 
 About This Project:
