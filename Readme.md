@@ -1,6 +1,5 @@
 <h1 align="center">MERN Netflix Clone 🎬</h1>
 
-# How it looks
 https://github.com/user-attachments/assets/504f5ad1-0758-48d1-9074-a759b567aafd
 
 
