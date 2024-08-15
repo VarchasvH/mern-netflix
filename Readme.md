@@ -1,6 +1,6 @@
 <h1 align="center">MERN Netflix Clone 🎬</h1>
 
-## DISCLAMER- THE PROJECT CAN TAKE UPTO 50seconds to laod due to a free tier being utlized.
+### DISCLAMER- The project can take upto 50s to load as I am using free tiers.
 
 https://github.com/user-attachments/assets/504f5ad1-0758-48d1-9074-a759b567aafd
 
