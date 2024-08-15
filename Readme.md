@@ -1,6 +1,10 @@
 <h1 align="center">MERN Netflix Clone 🎬</h1>
 
-About This Project:
+# How it looks
+https://github.com/user-attachments/assets/504f5ad1-0758-48d1-9074-a759b567aafd
+
+
+# About This Project:
 
 - ⚛️ Tech Stack: React.js, Node.js, Express.js, MongoDB, Tailwind
 - 🔐 Authentication with JWT
