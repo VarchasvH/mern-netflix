@@ -7,9 +7,6 @@ const protectRoute = async (req, res, next) => {
     // Get the token from the request cookies
     const token = req.cookies.netflix_jwt_token;
 
-    // Log the token for debugging
-    console.log("Token from Cookies:", token);
-
     // If no token provided, return unauthorized response
     if (!token) {
       return res.status(401).json({
@@ -21,9 +18,6 @@ const protectRoute = async (req, res, next) => {
     // Verify the token
     const decoded = jwt.verify(token, ENV_VARIABLES.JWT_SECRET);
 
-    // Log the decoded token for debugging
-    console.log("Decoded Token:", decoded);
-
     // If token verification fails, return unauthorized response
     if (!decoded) {
       return res.status(401).json({
@@ -34,9 +28,6 @@ const protectRoute = async (req, res, next) => {
 
     // Find the user by their ID and exclude the password field
     const user = await User.findById(decoded.userId).select("-password");
-
-    // Log the user object for debugging
-    console.log("User from DB:", user);
 
     // If user not found, return unauthorized response
     if (!user) {
