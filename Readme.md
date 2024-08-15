@@ -1,10 +1,9 @@
 <h1 align="center">MERN Netflix Clone 🎬</h1>
+![screenshot-for-readme](https://github.com/user-attachments/assets/6dde5367-0c8e-49c2-9b03-62e0f9defdda)
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
 
-[Video Tutorial on Youtube](https://youtu.be/0Kzd4k1YuCA)
 
-About This Course:
+About This Project:
 
 - ⚛️ Tech Stack: React.js, Node.js, Express.js, MongoDB, Tailwind
 - 🔐 Authentication with JWT
