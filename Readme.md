@@ -1,7 +1,8 @@
 <h1 align="center">MERN Netflix Clone 🎬</h1>
 
-https://github.com/user-attachments/assets/504f5ad1-0758-48d1-9074-a759b567aafd
+## DISCLAMER- THE PROJECT CAN TAKE UPTO 50seconds to laod due to a free tier being utlized.
 
+https://github.com/user-attachments/assets/504f5ad1-0758-48d1-9074-a759b567aafd
 
 # About This Project:
 
